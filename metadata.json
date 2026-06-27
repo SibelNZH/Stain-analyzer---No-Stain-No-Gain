@@ -1,0 +1,6 @@
+{
+  "name": "No Stain No Gain",
+  "description": "AI-powered stain identifier and fabric care expert to help you clean stains and save your clothes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
